@@ -1,5 +1,5 @@
 # Nástroj na měření odezvy EET serverů
-*Jeednoduchý nástroj, naprogramovaný v Node.js pro měření odezvy serverů EET*
+*Jeednoduchý nástroj, naprogramovaný v Node.js pro měření odezvy serverů EET, naprogramovaný ve fastfoodu během oběda, když všechny restaurace v okolí stávkovaly kvůli EET *
 
 ## Použití ##
 
@@ -18,4 +18,7 @@ Alternativně je možné použít přímo zdrojové kódy uvedené zde
 ## Popis ##
 Tento nástroj slouží k měření odezvy serverů EET. Funguje tak, že opakovaně posílá HTTP požadavky na jeden z endpointů API
 
-## Dobrovolný příspěvek ##
+## Dobrovolný příspěvek a rozvoj projektu ##
+Budu rád, pokud k projektu přispějete formou programátorské pomoci, nebo drobného BitCoinu.
+
+![alt text](https://github.com/konupek/eet-measure/raw/master/qr.png "QR")
