@@ -21,5 +21,4 @@ Tento nástroj slouží k měření odezvy serverů EET. Funguje tak, že opakov
 ## Dobrovolný příspěvek a rozvoj projektu ##
 Budu rád, pokud k projektu přispějete formou programátorské pomoci, nebo drobného BitCoinu.
 
-![alt text](https://github.com/konupek/eet-measure/raw/master/qr.png "QR")
-![alt text](https://github.com/konupek/eet-measure/raw/master/bc.jpg "QR")
+[<img src="https://github.com/konupek/eet-measure/raw/master/bc.jpg">](https://github.com/konupek/eet-measure/raw/master/qr.png)
