@@ -1,0 +1,26 @@
+{
+  "name": "eet-measure",
+  "version": "1.0.0",
+  "description": "Simple tool for (almost) real time server-response measure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konupek/eet-measure.git"
+  },
+  "keywords": [
+    "eet"
+  ],
+  "author": "Petr Konupek <petr@konupek.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konupek/eet-measure/issues"
+  },
+  "homepage": "https://github.com/konupek/eet-measure#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.79.0"
+  }
+}
